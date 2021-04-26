@@ -5,3 +5,5 @@ const birthdayCakeCandles = (candles: number[]) : number => {
   return count
 }
 console.log(birthdayCakeCandles([4, 4, 1, 3]))
+
+// https://www.hackerrank.com/challenges/birthday-cake-candles/problem
